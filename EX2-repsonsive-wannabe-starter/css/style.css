@@ -127,3 +127,20 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+/* desktop-first media query */
+/* bonus */
+
+
+/* versione tablet */
+
+@media (max-width:768px){
+   .container{
+    max-width: 100%;
+}
+}
+
+@media (max-width: 1600px){
+    .container{
+        width: 100vw;
+    }
+}
