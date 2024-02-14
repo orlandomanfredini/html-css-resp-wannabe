@@ -145,6 +145,9 @@ img {
     }
 }
 
+
+/* mobile-version */
+
 @media (max-width: 480px){
     body{
         font-size: 15px;
